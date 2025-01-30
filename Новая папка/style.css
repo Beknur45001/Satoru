@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    width: 85%;
+    padding: 8px;
+    border-radius: 4px;
+   margin: 0 auto;
+}
+
+.ttt {
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    box-shadow: 0 4px 10px black;
+    border-radius: 8px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+button{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+}
+
+
+
+
+#bob {
+    width: 85%;
+    padding: 8px;
+    border-radius: 4px;
+   margin: 0 auto;
+}
+
+.tttt {
+    width: 500px;
+    padding: 20px;
+    box-shadow: 0 4px 10px black;
+    border-radius: 8px;
+    margin: 0 auto;
+    background-color: #fff;
+}                                                                                                                                                                                                                                          
