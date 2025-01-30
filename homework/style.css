@@ -159,3 +159,42 @@ margin: 0 10px;
     gap: 30px;
     overflow-y: scroll;
 }
+
+
+.abaut{
+    width: 200px;
+    height: 20px;
+    margin: 0 auto;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.abaut:hover{
+    background-color: pink;
+}
+.b{
+    margin: 0 auto;
+    width: 200px;
+    height: 20px;
+    background-color: aqua;
+}
+.bb{
+    margin: 0 auto;
+    width: 200px;
+    height: 20px;
+    background-color: red;
+}
+.bbb{
+    margin: 0 auto;
+    width: 200px;
+    height: 20px;
+    background-color: purple;
+}
+.bbbb{
+    margin: 0 auto;
+    width: 200px;
+    height: 20px;
+    background-color: yellow;
+}
